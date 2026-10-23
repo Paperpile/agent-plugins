@@ -1,0 +1,29 @@
+{
+  "name": "paperpile",
+  "version": "0.2.1",
+  "description": "Search the academic literature, save papers to your Paperpile library, read and annotate their full text, and keep the library organised.",
+  "homepage": "https://paperpile.com",
+  "author": { "name": "Paperpile" },
+  "keywords": ["research", "literature", "papers", "citations", "science"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Paperpile",
+    "shortDescription": "Academic literature search and reference management.",
+    "longDescription": "Search the academic literature, save papers to your Paperpile library, read and annotate their full text, and keep the library organised.",
+    "developerName": "Paperpile",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://paperpile.com",
+    "privacyPolicyURL": "https://paperpile.com/privacy",
+    "termsOfServiceURL": "https://paperpile.com/tos",
+    "brandColor": "#29598C",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "defaultPrompt": [
+      "Find the most-cited papers on protein structure prediction from the last two years and save them to my library.",
+      "Compare the DNA extraction methods used by the papers in my 'single-cell' folder.",
+      "What has cited 'Attention is All You Need' most recently?"
+    ]
+  }
+}

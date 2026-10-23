@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "paperpile": {
+      "type": "http",
+      "url": "https://mcp.paperpile.com"
+    }
+  }
+}

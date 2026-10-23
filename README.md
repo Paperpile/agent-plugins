@@ -1,1 +1,0 @@
-# Paperpile agent plugins

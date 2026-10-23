@@ -1,0 +1,8 @@
+{
+  "name": "paperpile",
+  "version": "0.2.1",
+  "description": "Search the academic literature, save papers to your Paperpile library, read and annotate their full text, and keep the library organised.",
+  "homepage": "https://paperpile.com",
+  "author": { "name": "Paperpile" },
+  "keywords": ["research", "literature", "papers", "citations", "science"]
+}

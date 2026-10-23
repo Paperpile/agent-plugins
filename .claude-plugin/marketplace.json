@@ -1,0 +1,17 @@
+{
+  "name": "paperpile",
+  "owner": {
+    "name": "Paperpile",
+    "url": "https://paperpile.com"
+  },
+  "description": "Search the academic literature, save papers to your Paperpile library, read and annotate their full text, and keep the library organised.",
+  "plugins": [
+    {
+      "name": "paperpile",
+      "source": "./claude-code",
+      "description": "Search the academic literature, save papers to your Paperpile library, read and annotate their full text, and keep the library organised.",
+      "version": "0.2.1",
+      "category": "science"
+    }
+  ]
+}
